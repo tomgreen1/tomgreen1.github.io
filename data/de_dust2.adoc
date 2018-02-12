@@ -1,0 +1,50 @@
+# Terrorists
+
+## Bomb A
+
+### Flash A long
+
+#### Slide 1
+image::images/de_dust2-2aa57.png[]
+
+#### Slide 2
+image::images/de_dust2-2aa57.png[]
+
+#### Slide 3
+image::images/de_dust2-2aa57.png[]
+
+### Molotow car
+
+#### Slide 2-1
+
+#### Slide 2-2
+
+#### Slide 2-3
+
+## Mid
+
+### Smoke CT
+
+#### Slide 3-1
+
+#### Slide 3-2
+
+#### Slide 3-3
+
+## Bomb B
+
+### Smoke B
+
+#### Slide 4-1
+
+#### Slide 4-2
+
+#### Slide 4-3
+
+### Flash B
+
+#### Slide 5-1
+
+#### Slide 5-2
+
+#### Slide 5-3

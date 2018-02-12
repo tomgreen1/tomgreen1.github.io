@@ -1,0 +1,74 @@
+# de_nuke
+
+toc::[]
+
+
+
+# Terrorists
+
+## Bomb A
+
+### Molotov on Container roof
+
+#### Jump on the left pillar outside of A (roof). Crouch until you are over the left rear corner, like shown in the Picture
+image::images/de_nuke-51863.png[]
+
+#### AIM at the middle of the second visible window on the right side
+image::images/de_nuke-57a1d.png[]
+
+#### Aim at the roof top
+image::images/de_nuke-8a3db.png[]
+
+#### Do a simple throw. If done right it should bounce into A and set the containers roof on fire
+image::images/de_nuke-d7116.png[]
+
+### Flash from Outside into Bomb A
+
+#### Jump on the left pillar outside of A (root). Position in the middle back, like shown on the picture.
+image::images/de_nuke-e881f.png[]
+
+
+#### Aim at the edge of the glass roof thing at the right side where it meets with the smaller glass roof thing
+image::images/de_nuke-e244a.png[]
+
+#### Do a normal throw. If done right it bounces through the roof and blins Bomb A
+image::images/de_nuke-4aa82.png[]
+
+### Flash into Bomb A
+
+#### Position yourself in the room at the left corner of the visible rectancle on the ground
+
+image::images/de_nuke-42961.png[]
+
+#### Aim at the corner (top quarter) like shown
+image::images/de_nuke-3c118.png[]
+
+#### Run forward and throw. If done right it bounces out of the container into Bomb A
+image::images/de_nuke-b0a15.png[]
+
+## Bomb B
+
+### Smoke B ramps
+
+#### Run into corridor to B ramps. Position yourself in the corner at the door on the right.
+image::images/de_nuke-6db87.png[]
+
+#### Aim at the window like shown. Run throw.
+image::images/de_nuke-fe524.png[]
+
+#### If done right the smoke should smoke off B ramps.
+image::images/de_nuke-a8086.png[]
+
+## Outside
+
+### Smoke off garage Sniper
+
+#### Position yourself outside at the small sign on the fence.
+image::images/de_nuke-820eb.png[]
+
+#### Aim at the right side of the building and height of the second cable, like shown.
+
+image::images/de_nuke-98b90.png[]
+
+#### Run throw the smoke. If done right it smokes off any sniper in garage.
+image::images/de_nuke-a1751.png[]

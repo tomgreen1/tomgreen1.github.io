@@ -1,0 +1,38 @@
+
+# Terrorists
+
+## Bomb A
+
+### Smoke stairs
+
+#### Position at the small wall on the way to Bomb a
+image::images/mirage_a_smoke_stairs01.png[]
+
+#### Aim at the shown point
+image::images/mirage_a_smoke_stairs02.png[]
+
+# Counter Terrorist
+
+## Bomb B
+
+### Smoke outside of market
+
+#### Position like shown. Bring the box and the window in one line.
+image::images/de_mirage-1b23e.png[]
+
+#### Aim at the bottom of the shadow and throw
+image::images/de_mirage-1b23e.png[]
+
+### Smoke Appartements
+
+#### Stand on the left side in the corner, right outside of the market.
+image::images/mirage_b_smoke_appartments.png[]
+
+
+#### Aim at the small black dot at the foil
+image::images/mirage_b_smoke_appartments2.png[]
+
+### Prefire through that smoke
+
+#### Stand in the corner at the table. Aim at the crack in height of the shown pattern and shoot.
+image::images/de_mirage-3fbaf.png[]
